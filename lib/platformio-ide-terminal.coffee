@@ -146,6 +146,7 @@ module.exports =
             'solid-colors',
             'dracula',
             'one-dark',
+            'one-dark-green',
             'christmas'
           ]
     ansiColors:
